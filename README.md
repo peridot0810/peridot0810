@@ -11,7 +11,7 @@
   <div align="left">
     
   <sub>**🎓 B.S. in Mathematics & AI Convergence, Soongsil University**</sub> <sub><sub>(2019.03 ~ 2025.02)</sub></sub> <br />
-  <sub>**🚀 Samsung Software·AI academy For Youth (SSAFY) 13th cohort**</sub> <sub><sub>(2025.01 ~ )</sub></sub><br />
+  <sub>**🧑🏻‍💻 Samsung Software·AI academy For Youth (SSAFY) 13th cohort**</sub> <sub><sub>(2025.01 ~ )</sub></sub><br />
   
   <br />
   </div>
