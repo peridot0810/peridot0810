@@ -46,9 +46,3 @@
   <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
   
 </div>
-
-
-<!-- contact -->
----
-## ✉️ Contact Me
-📫 **E-mail**: bears081887@gmail.com
