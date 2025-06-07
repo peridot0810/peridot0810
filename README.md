@@ -14,6 +14,8 @@ Have a wonderful day! ✨
 
 ## 📊 My Stats
 ![peridot0810's GitHub stats](https://github-readme-stats.vercel.app/api?username=peridot0810&show_icons=true&theme=synthwave)  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bears0810)](https://solved.ac/bears0810)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=bears0810&theme=warm)
 
 ---
 
