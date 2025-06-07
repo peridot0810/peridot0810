@@ -1,8 +1,9 @@
+<!-- 상단 -->
 <div align="center">
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=peridot0810&show_icons=true&theme=transparent&hide="/>
 
-  ### 🐹 JoonHyeok Kim's GITHUB 🐹
+  ### 🐶 JoonHyeok Kim's GITHUB 🐶
 
   <a href="https://solved.ac/bears0810"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bears0810"/></a>
 
@@ -20,6 +21,7 @@
 <br />
 
 
+<!-- 기술 스택 -->
 ---
 ## 🛠️ Tech Stack
 <div align="left">
@@ -45,12 +47,8 @@
   
 </div>
 
----
-<!--
-## 🤝 Organizations
 
+<!-- contact -->
 ---
--->
-
 ## ✉️ Contact Me
 📫 **E-mail**: bears081887@gmail.com
