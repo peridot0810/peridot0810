@@ -1,24 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=JoonHyeok's%20GITHUB&fontSize=50&fontAlignY=36&animation=fadeIn)
+<div align="center">
 
-Hi!👋 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=peridot0810&show_icons=true&theme=transparent&hide="/>
 
-I'm **JoonHyeok Kim**, a developer passionate about creating meaningful value for the world.
+  ### 🐹 JoonHyeok Kim's GITHUB 🐹
 
-🎓 B.S. in Mathematics & AI Convergence, Soongsil University (Feb 21, 2025)  
-🚀 Samsung Software·AI academy For Youth (SSAFY) 13th cohort (Jan 2025 – )  
-💬 Always open to collaboration!  
+  <a href="https://solved.ac/bears0810"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bears0810"/></a>
 
-Have a wonderful day! ✨  
+
+  <div align="left">
+    
+  <sub>**🎓 B.S. in Mathematics & AI Convergence, Soongsil University**</sub> <sub><sub>(2019.03 ~ 2025.02)</sub></sub> <br />
+  <sub>**🚀 Samsung Software·AI academy For Youth (SSAFY) 13th cohort**</sub> <sub><sub>(2025.01 ~ )</sub></sub><br />
+  
+  <br />
+  </div>
+  
+</div>
+
+<br />
+
 
 ---
-
-## 📊 My Stats
-![peridot0810's GitHub stats](https://github-readme-stats.vercel.app/api?username=peridot0810&show_icons=true&theme=synthwave)  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bears0810)](https://solved.ac/bears0810)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=bears0810&theme=warm)
-
----
-
 ## 🛠️ Tech Stack
 <div align="left">
   
